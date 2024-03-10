@@ -1,2 +1,3 @@
 # medman
- Media manager en rust
+ Simple media manager written in Rust.
+ Can complete metadata of a file.
